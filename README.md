@@ -4,6 +4,11 @@
   ## Description
   This is a employee tracker using node and inquirer to display data from a MySql database. This application allows the user to view, add, and update employees, roles, and departments. This application is a great way to keep track of your employees and their roles.
 
+  ## Demo
+  [whosyouDemo.webm](https://user-images.githubusercontent.com/118019526/219827761-d9980258-974b-4c76-b4c5-4610b6409626.webm)
+
+  
+
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
